@@ -30,3 +30,16 @@ This project demonstrates how to use a Force Sensitive Resistor (FSR) with an Ar
 
 ### Summary
 By following these steps, you will create a simple circuit that uses an FSR to measure and display different pressure levels on the Serial Monitor. This project is an excellent introduction to interfacing analog sensors with the Arduino and processing their readings for practical applications.
+
+---
+
+### Whether you're working on electronics projects, IoT applications, or robotics innovations, Projects Learner is your go-to platform for guidance and expertise.
+
+🌐 [projectslearner.com](https://www.projectslearner.com)  
+📧 [projectslearner@gmail.com](mailto:projectslearner@gmail.com)  
+📸 [Instagram](https://www.instagram.com/projectslearner/)  
+📘 [Facebook](https://www.facebook.com/projectslearner)  
+▶️ [YouTube](https://www.youtube.com/@ProjectsLearner)  
+📘 [LinkedIn](https://www.linkedin.com/in/projectslearner)  
+
+## Made for you with ❣️ from ProjectsLearner
